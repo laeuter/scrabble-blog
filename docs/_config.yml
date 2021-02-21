@@ -22,7 +22,7 @@ title: Martin gräbt Scrabble®-Wörter aus
 email: martin.scrabbelt@googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ein paar lose Gedanken zu Scrabble®-Wörtern, Statistiken, tollen Partien, Listen und Lernmethodiken
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/scrabble-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  laeuter
