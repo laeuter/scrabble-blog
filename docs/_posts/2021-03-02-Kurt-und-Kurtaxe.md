@@ -3,7 +3,7 @@ layout: post
 title:  "Kurt und Kurtaxe"
 categories: Wörter
 ---
-Es war vielleicht etwas einseitig, den [Artikel über Vornamen](/scrabble-blog{% post_url 2021-02-23-Sam-und-Sämigkeit %}) nur aus der Sicht der Vornamen zu schreiben, nicht aus der Sicht des Scrabble®-Spielers. Letzterer will vielleicht auch wissen, welche andere **Bedeutung** des Worts einen **Vornamen** dann doch zulässt. Schauen wir mal auf die Bedeutungen.
+Es war vielleicht etwas einseitig, den [Artikel über Vornamen](/scrabble-blog{% post_url 2021-02-23-Sam-und-Saemigkeit %}) nur aus der Sicht der Vornamen zu schreiben, nicht aus der Sicht des Scrabble®-Spielers. Letzterer will vielleicht auch wissen, welche andere **Bedeutung** des Worts einen **Vornamen** dann doch zulässt. Schauen wir mal auf die Bedeutungen.
 
 Manche Wörter lassen sich auf mehrere Duden-Stichwörter zurückführen. In dieser Tabelle reicht aus meiner Sicht eine Bedeutung. Also steinigen Sie mich nicht, wenn hier eine Bedeutung fehlt oder sie nicht mit dem Vorgängerartikel übereinstimmt. Einfach die Bedeutungserklärungen aus dem Duden abschreiben, ist auch nicht gut, denn der Duden hat daran sicher das Copyright. Andererseits will man schon die Bedeutungen aufführen, für die die Wörter im Duden stehen... Sie sehen das Dilemma.
 
