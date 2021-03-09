@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Farben"
+title:  "Grün und Gründerzeit"
 categories: Wörter
 ---
-Ich habe vor, in loser Folge Vokabeln aus einem Sachgebiet zusammenzutragen. Manche Sachgebiete strotzen nur so vor interessanten Wörtern, die finde ich ausgesprochen spannend, denn Bedeutungen zum Wort helfen manchen Spielern, sich die Wörter auch auf Dauer zu merken. Heute werfen wir einen Blick auf Farbwörter im Duden, 28. Auflage.
+Ich habe vor, in loser Folge Vokabeln aus einem Sachgebiet zusammenzutragen. Manche Sachgebiete strotzen nur so vor interessanten Wörtern, die finde ich ausgesprochen spannend, denn Bedeutungen zum Wort helfen manchen Spielern, sich die Wörter auch auf Dauer zu merken. Heute werfen wir einen Blick auf **Farbwörter** im Duden, 28. Auflage.
+
+Solange es möglich ist, werden die Artikel im Jane-Austen-Muster benannt, also wie _Sinn und Sinnlichkeit_. Die dritte Staffel von Blackadder hatte auch ein paar schöne Beispiele.
 
 Wieviel Farben mag es schon geben? Und wie gierig ist die Dudenredaktion, immer weitere Farbwörter aufzunehmen? Wie flektieren die Wörter? Kenne ich alle Farben schon, und wieviel neue Wörter muss ich lernen?
 
