@@ -146,7 +146,7 @@ Was davon ist für Scrabble-Spieler interessant?
 
 Es gibt also immerhin 93 Wörter bis 8 Buchstaben Länge, die sich für Spieler, die sich nicht besonders für Chemie interessieren, auszeichnen durch
 * ungewohnte Stämme,
-* oder gar vollkommen ungewöhnlicher Wortaufbau,
+* oder gar vollkommen ungewöhnlichen Wortaufbau,
 * eine hier herausstechende, aber sonst nicht besonders häufige Endung -IUM,
 * ein paar direkte Importe aus Altsprachen,
 * einige gute Gelegenheiten für C, J und Y,
