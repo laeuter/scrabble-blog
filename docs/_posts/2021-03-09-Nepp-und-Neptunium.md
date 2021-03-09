@@ -7,7 +7,7 @@ Heute geht es um **chemische Elemente**, die man beim Scrabble® legen kann.
 
 Ich führe die Elemente (wenn möglich) so auf, wie ich sie kennen gelernt habe, was nicht unbedingt die heutige offizielle Schreibung ist oder gar das, was die Schüler heute in der Schule lernen. Ich sitze einfach am kürzeren Hebel. Mit den Kürzeln und der Reihenfolge sollte man sich aber trotzdem zurechtfinden.
 
-|Element|Name|legbar|auch|und nicht|
+|Kürzel|Name|legbar|auch|und nicht|
 |-------|----|-|---------|---------|
 |H|Wasserstoff|ja|Deuterium, Hydrogenium, Tritium||
 |He|Helium|ja|||
@@ -125,7 +125,7 @@ Ich führe die Elemente (wenn möglich) so auf, wie ich sie kennen gelernt habe,
 |Fl|Flerovium|nein|||
 |Mc|Moscovium|nein|||
 |Lv|Livermorium|nein|||
-|Ts|Teness|nein|||
+|Ts|Tenness|nein|||
 |Og|Oganesson|nein|||
 
 Aktinium stand 1934--1996 im Duden; in der 14. Auflage (Ost) wurde es als „ältere Bezeichnung für Franzium“ erklärt.
@@ -136,7 +136,25 @@ In der 18. Auflage (Ost) stand auch Kurtschatovium, der damalige konkurrierende 
 
 Wenn man bedenkt, dass Dubnium, das älteste Element, das nicht im Duden zu finden ist, 1967 gefunden wurde, muss man schlussfolgern, dass die Redaktion a) seitdem nicht besonders interessiert an diesen Wörtern war oder b) die Namen nicht für Rechtschreibschwierigkeiten hält. Letzteres trifft aus meiner Sicht nicht zu. _Wenigstens_ eine Erklärung für das Zustandekommen von Tenness wäre angebracht. (Im Englischen heißen die Halogene Bromine, Iodine usw., und das neueste Halogen benannte man nach dem US-Bundesstaat Tennessee, also Tennessine. Für den deutschen Namen gehört das -ine also wieder weg und -- voilà -- Tenness! Einfache Regeln sind so großartig.)
 
-Livermore war gar kein Wissenschaftler. Die Namen Seaborgium und Oganesson wurden noch zu Lebzeiten der Namensgeber vergeben. Mehr Adel geht nicht.
+Livermore war gar kein Wissenschaftler. Die Namen Seaborgium und Oganesson wurden noch zu Lebzeiten der verewigten Person vergeben. Mehr immerwährender Ruhm ist auf der Welt nicht möglich.
+
+Was davon ist für Scrabble-Spieler interessant?
+
+|Länge|3|4|5|6|7|8|9|10|11|12|13|
+|-----|-|-|-|-|-|-|-|--|--|--|--|
+|Anzahl|5|8|12|22|28|18|18|7|9|1|1|
+
+Es gibt also immerhin 93 Wörter bis 8 Buchstaben Länge, die sich für Spieler, die sich nicht besonders für Chemie interessieren, auszeichnen durch
+* ungewohnte Stämme,
+* oder gar vollkommen ungewöhnlicher Wortaufbau,
+* eine hier herausstechende, aber sonst nicht besonders häufige Endung -IUM,
+* ein paar direkte Importe aus Altsprachen,
+* einige gute Gelegenheiten für C, J und Y,
+* einige austauschbare Buchstaben, insbesondere das C (für gesprochenes K oder Z).
+
+Ein Elementname, der ein C (für Z, K) enthält, ist meist gültig (Ausnahmen: Cäsium, Cerium, Carbonium). Amerizium (C>Z) und Frankium (C>K) werden nicht anerkannt. Scandium und Caesium haben keine eingedeutschte Schreibung. Verlängerungen des Elementnamens um -IUM sind allgemein nicht gültig.
+
+Am Ende hilft wohl nur, sich die Liste vorzunehmen und einzuprägen, wie so oft.
 
 # Noch ein wenig Gehirnakrobatik
 Aus den Elementkürzeln kann man auch Wörter bilden, also meinetwegen Si + Al = Sial. Wie lang kann so ein Wort werden, das sich aus Elementkürzeln zusammensetzen lässt? Für eine Gewohnheitsverbrecherin muss man da gar nichts hineingeheimnissen. Vielleicht fragt man eine Nachwuchspolitikerin? Am Ende hilft nur Investigativjournalismus (aber erst seit August 2020). So.
