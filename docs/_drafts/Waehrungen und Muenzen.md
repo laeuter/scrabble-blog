@@ -3,6 +3,31 @@ layout: post
 title:  "Währungen und Münzen"
 categories: Wörter
 ---
+Fünffrankenstück
+Fünffränkler
+Fünfhunderteuroschein
+Fünfhundertmarkschein
+Fünfmarkschein
+Fünfmarkstück
+Fünfpfennigstück
+Fünfzigcentstück
+Fünfziger
+Fünfzigeuroschein
+Fünfzigmarkschein
+Fünfzigpfennigstück
+Hunderteuroschein
+Hundertmarkschein
+Tausendmarkschein
+Zehncentstück
+Zehner
+Zehneuroschein
+Zehnmarkschein
+Zehnpfennigstück
+Zwanzigcentstück
+Zwanziger
+Zwanzigeuroschein
+Zwanzigmarkschein
+
 https://www.laenderdaten.info/waehrungen/
 kyat pya
 mark pfennig
