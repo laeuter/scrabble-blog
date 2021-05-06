@@ -68,9 +68,9 @@ Die sind fast zu einfach, aber führen wir sie doch mal auf:
 |**E**instürzende Neubauten|Selig|
 |Ernst Mosch & seine Original Egerländer Musikanten|Sportfreunde Stiller|
 |Erste Allgemeine Verunsicherung|Der Studentische Madrigalchor Münster|
-|Die **F**antastischen Vier|Das Stuttgarter Kammerorchester; **T**on|
-|Fehlfarben|Steine|
-|Fettes Brot|Scherben; Die Toten Hosen|
+|Die **F**antastischen Vier|Das Stuttgarter Kammerorchester|
+|Fehlfarben|**T**on, Steine, Scherben|
+|Fettes Brot|Die Toten Hosen|
 |Die Fischer-Chöre|Trio|
 |Die Flippers|Truck Stop|
 |Frank Zander & die Elektriker|**V**eronika Fischer & Band|
