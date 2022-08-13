@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Scham und Schamanin"
+title:  "Scham und Schaman*in"
 categories: Regeln
 ---
 Über Ostern 2022 überraschte Mattel Deutschland damit, einen neuen Spielstein beim Scrabble einzuführen: den **Genderstein**.
