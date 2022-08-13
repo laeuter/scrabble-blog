@@ -9,7 +9,7 @@ Gegen neue Steine muss man im Grund nichts haben, und gegen Gleichberechtigung s
 
 Wenn wir aber von Mattel einen neuen Spielstein mitsamt Regeln bekommen, dann kann man schon darüber reden, inwieweit sich das Spiel und die Menge der legbaren Wörter verändern.
 
-# Die Regeln
+## Die Regeln
 Der neue Stein steht für die Zeichen _\*IN_ und ist 10 Punkte wert. Der Stern deutet darauf hin, dass der Stein nicht als Ersatz für jegliche Vorkommen von IN gedacht ist, sondern nur für -in des weiblichen Markers an Substantiven. Um drüber reden zu können, zitieren wir die Regeln hier vollständig:
 
 > Der *\*IN-Stein* darf als gendergerechte Endung ausschließlich bei personenbezogenen Substantiven verwendet werden, die in der Grundform (generisches Maskulinum) auf -er oder -e enden und für Berufsbezeichnungen, Bewohner oder Mitglieder von Gruppen stehen.
@@ -54,17 +54,17 @@ Und weitere Fragen bleiben offen:
 - Wonach sollte man im Wörterbuch "im Zweifelsfall" Ausschau halten? Der Duden klärt praktisch keines der Kriterien in den Genderstein-Regeln.
 - Wie steht es um die Wertigkeit des Gendersteins bei Vervielfachung des *Buchstabenwerts*? Immer nur 10 Punkte?
 
-# Die Wörter
+## Die Wörter
 Im Scrabble ist die Anwendbarkeit des Gendersteins gar nicht so einfach, denn eine Liste der zulässigen Wörter mit Genderstein gibt es nicht. Die offizielle Wortliste enthält die Angabe nicht und müsste erst sorgfältig nachgepflegt werden.
 
 Über 5800 Wörter auf -in, die auch um -nen verlängert werden können, sind im Scrabble legbar; Wenn man sie auf die Länge bis 9 einschränkt, sind es noch über 1400. Nach Streichung der Chemikalien, Nicht-Personen usw. kommen dann 5400 bzw. 1050 Wörter mit dem \*IN-Stein zur Liste hinzu (dazu kommt jeweils der Plural, der die Wörter aber auch länger macht). Insgesamt reden wir von etwa 1130 Wörtern mit maximal 8 Steinen (d. h. 9 Buchstaben).
 
 Die mit dem Genderstein legbaren Wörter haben einen deutlichen Hang zu großen Längen. Zwei- und Dreibuchstaber gibt es nicht und Bis-5-Buchstaber (d. h. 3- und 4-*Steiner*) nicht einmal 30, davon nur 3 mit sonst nur häufigen Buchstaben (IR*\*IN*, AHN*\*IN*, EST*\*IN*). Alles, was einen Stein im Scrabble gut verwendbar macht, ist hier nicht erfüllt. Selbst für das Weglegen des Gendersteins fehlt das Wortmaterial. Der Verdacht kommt auf, dass der Genderstein zumeist getauscht werden muss, und weil er im Endspiel nicht ordentlich legbar ist, er am Ende auf der Bank liegen bleibt und mindestens 20 Punkte kostet.
 
-# Im Spiel
+## Im Spiel
 So weit die Theorie. Wir haben also ein Computerprogramm dazu gebracht, 100 Partien mit dem Genderstein und einer entsprechenden Wortliste zu spielen. Das Programm simuliert auch die 4 Folgezüge, zudem bewertet es alle Tauschzüge, sodass ein Vergleich von normalen Partien und Partien mit Genderstein (wir tun nur *einen* ins Säckchen) möglich wird.
 
-## Nützlichkeit
+# Nützlichkeit
 Jedem Scrabblespieler ist klar, dass es mehr oder weniger nützliche Steine gibt. Mal fehlt es an kurzen Wörtern, mal die Kombination mit häufigen Buchstaben, mal werden Buchstaben erst dann zur Last, wenn man sie mehrfach auf der Bank hat.
 
 Unsere Auswertungen zeigen, dass bisher Q der lästigste Buchstabe war, er wird in 87 von 100 Partien gelegt. Das V folgt mit 94 Partien. Der Genderstein toppt das nochmal, er wird nur in 81 Partien gelegt, bleibt also in 19 % der Partien auf der Bank des nicht ausmachenden Spielers.
@@ -79,7 +79,7 @@ Der Genderstein wird aber nicht außergewöhnlich häufig getauscht. Das ist dam
 
 Bis auf, dass der neue Stein immer noch einmal schlechter verwendbar ist als das Q, ist er auch kein Weltuntergang. Genau wie man gelernt hat, mit dem Q umzugehen, kann man es auch mit dem \*IN-Stein lernen. Er ist mit 10 Punkten in etwa adäquat bewertet. Man verliert dadurch nicht mehr Partien oder unendlich viele Punkte -- Der Sieg entscheidet sich immer noch über die Anzahl der Bingos.
 
-## Die häufigen Wörter
+# Die häufigen Wörter
 Das einzige Wort mit Genderstein und 4 Buchstaben (also 3 Steinen) ist IR*\*IN*. Und es ist auch -- wie nicht anders zu erwarten -- das weitaus häufigste Wort mit Genderstein. Elfmal wurde es gelegt, 6/7 der Wörter kommen nur einmal vor. Insgesamt wurden nur 50 unterschiedliche Wörter gespielt. Nie wird der Blanko für den \*IN-Stein genommen.
 
 |IR\*IN 17|JÜT\*IN 2|POL\*IN|LETT\*IN|EIFER\*IN|
@@ -95,18 +95,18 @@ Das einzige Wort mit Genderstein und 4 Buchstaben (also 3 Steinen) ist IR*\*IN*.
 
 Es gibt zwar eine gute Anzahl von möglichen Wörtern, aber unterm Strich ist das Legen eines Worts mit Genderstein ein sporadisches Ereignis, es ist leicht, ein mögliches Wort zu übersehen. Um das besser zu untersuchen, waren die 100 simulierten Spiele deutlich zu wenig.
 
-# Das Material
+## Das Material
 Man konnte den Genderstein bei Mattel online bestellen. Er wurde reibungslos als Brief verschickt, allerdings nur in der Farbe weiß. Die meisten in Gebrauch befindlichen Scrabble-Spiele haben gelbliche Buchstabensteine, so erkennt man sehr leicht, ob der Gegner den Genderstein hat.
 ![man erkennt die weißen Steine auf der gegnerischen Bank sehr leicht](/scrabble-blog/assets/img/weissstein.jpg)
 Das hätte nicht sein müssen. Dass der Stein so Eingang ins Wettkampf-Scrabble findet, dürfte ausgeschlossen sein. Immerhin sind Gewicht, Form und Haptik des neuen Steins im Wesentlichen mit den althergebrachten Steinen identisch.
 
-# Kann man da was tun?
+## Kann man da was tun?
 Die Nachteile des \*IN-Steins wiegen schwer. Man kann die Menge der zulässigen Wörter (das ursächliche Problem) erhöhen, indem man auch Grundwörter mit anderen Enden als -e oder -er akzeptiert und so CHEF*\*IN*, HERR*\*IN*, ZAR*\*IN* mit hereinholt. Dann auch Tiere, wodurch wir BÄR*\*IN*, LÖW*\*IN*, FÜCHS*\*IN* (nicht jedoch FUCHS*\*IN*) hinzubekommen. Das würde aber nur wenig bringen.
 
 Der einzige Weg, den Stein wirklich nützlich zu machen, wäre, ihn für alle Buchstabenfolgen "IN" zu erlauben, also *\*IN*DIANER, H*\*IN*E*\*IN*G*\*IN*G usw., womit er aber den Genderaspekt (seine Raison d'être) verliert. In diesem Fall wären aber auch Buchstabensteine mit ER<sub>1</sub> und CH<sub>3</sub> extrem interessant.
 
-# Fazit
+## Fazit
 Der Genderstein bringt neue Ideen ins Spiel: Gendern als Sprachmittel, zwei Buchstaben auf einem Spielstein. In deutschen Wörtern von Scrabble-fähiger Länge kommt der Stein aber zu selten vor, als dass er das Spiel besser, populärer, einfacher macht. Im Gegenteil schlägt er die bisherigen Maßzahlen für schlecht spielbare Steine. Man kann aber lernen, den Stein zu spielen.
 
-# Nebenbei
+## Nebenbei
 Die Simulationen mit dem Genderstein waren meine ersten mit den neuen ORZ von 2022. FRA wurde genau einmal gelegt, FRATE nie. Mussten dafür wirklich die Regeln geändert werden?
